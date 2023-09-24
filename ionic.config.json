@@ -1,0 +1,8 @@
+{
+  "name": "Neomedical",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "5abfd5d2"
+}
